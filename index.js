@@ -197,3 +197,56 @@
 //     alert('ban bi beo phi');
 // }
 
+// console.log("bai11.a")
+
+// for (let i=1; i <= 4; i++) {
+//     fd(50)
+//     lt(90)
+//   }
+
+// console.log("bai11.b");
+
+// for (let i=1; i <= 3; i++) {
+//     fd(50)
+//     rt(120)
+//   }
+
+// console.log("bai11.c");
+
+// for (let i=1; i <= 5; i++) {
+//     fd(50)
+//     rt(72)
+//   }
+
+// console.log("bai11.d");
+
+// for (let i=1; i <= 6; i++) {
+//     fd(50)
+//     rt(60)
+//   }
+
+// console.log("bai12");
+
+// let x = prompt("Nhập số cạnh :");
+// let a = 360/x;
+// console.log(a);
+
+// for(let i = 1; i <= x; i++){
+//     fd(50);
+//     lt(a);
+// }
+
+// console.log("bai13");
+
+// let x = prompt("nhap so hinh muon ve :");
+
+//  for(let i = 1 ;i<= x;i++)
+//  {
+//      let b = 360/(i+2);
+//       for(let j = 1; j <= (i+2); j++)
+//       {
+//       fd(100);
+//       rt(b);
+//       }
+       
+//  }
